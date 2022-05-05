@@ -1,0 +1,12 @@
+div {
+    background-color: #0d048a;
+    border: 5px solid rgb(97, 1, 252);
+    padding: 5px;
+    margin: 10px;
+ }
+ div h4
+    {
+        color: #fff;
+        text-align: center;
+        vertical-align: middle;        
+    }
