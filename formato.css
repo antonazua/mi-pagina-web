@@ -10,3 +10,8 @@ div {
         text-align: center;
         vertical-align: middle;        
     }
+a.div
+    {
+        color: #adf222;
+        background-color: #006400;
+    }
